@@ -13,6 +13,7 @@ public class Rational {
 	this.denom = denom;
     }
 
+    @Override
     public String toString() {
 	return num + "/" + denom;
     }
