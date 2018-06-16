@@ -50,14 +50,7 @@ Total time: 0 seconds
 ```
 
 To run the other `main`, since it takes command line parameters, it is
-better to run it interactively the "old fashioned way".  It is
-possible to pass command line parameters into a build.xml file to run
-a program with command line parameters, but it isn't straightforward.
-It's easier to just run the program directly (outside of ant).  The
-same is true for interactive programs that read from stdin
-(`System.in` in java).  (As we'll see later, for GUIs, ant can be
-used; we just have to specify the `fork="true"` attribute in the
-`java` task. But we are getting ahead of ourselves.)
+better to run it interactively the "old fashioned way".  
 
 ```
 -bash-4.3$ java Main
