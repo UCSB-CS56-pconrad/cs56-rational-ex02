@@ -5,6 +5,11 @@ This repository is part of a [series of Java tutorials for a Rational class](htt
 * https://ucsb-cs56-pconrad.github.io/tutorials/rational/
 * https://ucsb-cs56-pconrad.github.io/tutorials/rational_ex02/
 
+| Previous Repo | This Repo | Next Repo
+|-|-|-|
+|[cs56-rational-ex01](https://github.com/UCSB-CS56-pconrad/cs56-rational-ex01)|[cs56-rational-ex02](https://github.com/UCSB-CS56-pconrad/cs56-rational-ex02)|[cs56-rational-ex03](https://github.com/UCSB-CS56-pconrad/cs56-rational-ex03)
+
+
 # Quick start
 
 Once you clone this repo, these commands show how to compile and run the code inside.
